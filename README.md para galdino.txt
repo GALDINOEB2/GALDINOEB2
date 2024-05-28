@@ -3,7 +3,7 @@
 
 No momento eu faço curso superior em Engenharia de Software, participo de eventos e bootcamps e cursos de linguagem Java, C++, C#, Python e Cibersegurança.
 Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei na vida! 
-Minha meta é me firmar como um desenvolvedor que consiga não só sucesso mais sim, criar ferramentas para conectar mulheres de pessoas que também querem entrar para a área tech, mas não sabem como fazer isso.
+Minha meta é me firmar como um desenvolvedor que consiga não só sucesso mais sim, criar ferramentas para conectar milheres de pessoas que também querem entrar para a área tech, mas não sabem como fazer isso.
 
 - 💼 Atualmente eu sou Especialista em Suporte de TI.
 
