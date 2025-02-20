@@ -5,9 +5,9 @@ No momento eu faço curso superior em Engenharia de Software, participo de event
 Decidi estudar programação desde o início de 2022 e foi a melhor decisão que já tomei na vida! 
 Minha meta é me firmar como um desenvolvedor que consiga não só sucesso mais sim, criar ferramentas para conectar milheres de pessoas que também querem entrar para a área tech, mas não sabem como fazer isso.
 
-- 💼 Atualmente eu sou Especialista em Suporte de TI.
+- 💼 Atualmente estou como Analista de Suporte Nível 2 Atendimento de segundo nível para os usuários e demais técnicos com atuação na análise crítica de incidentes e proglemas.
 
-- 💻 Atualmente eu estou aprendendo **Cibersegurança em PYTHON.**
+- 💻 Atualmente eu cursando Pós-graduação **Cibersegurança pela universidade Estácio de Sá.**
 
 - 👨‍💻 Você pode ver meus projetos em [data_repository](https://github.com/GALDINOEB2/PIT-2023)
 
